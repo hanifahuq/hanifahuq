@@ -1,12 +1,11 @@
-### Hi there 👋, My name is Hanifa
+![alt text](https://github.com/hanifahuq/hanifahuq/blob/main/Hanifa's%20GitHub%20Banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### Hi there 👋, My name is Hanifa
 
 Skills: Python / R / SQL / MatLab
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Data Analytics with Python 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hanifahuq)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/hanifa-huq/)  
 
