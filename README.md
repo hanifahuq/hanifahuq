@@ -5,7 +5,7 @@
 Skills: Python / R / SQL / MatLab
 
 - 🔭 I’m currently working on filling up this profile with more projects! 
-- 🌱 I’m learning Data Science with Python through DataCamp and Machine Learning through Code First Girls.
+- 🌱 I’m learning Data Science with Python through DataCamp
 
 Please have a look on my linkedin below to view my educational background and experience.
 
