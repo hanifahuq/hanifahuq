@@ -5,8 +5,8 @@
 Skills: Python / R / SQL / MatLab
 
 - 🔭 Currently working on filling up this profile with more projects! 
-- 🌱 Learning Data Science with Python through DataCamp
-- 💼 Open to jobs in data science/ data analysis
+- 🌱 Learning Data Analytics and Science 
+- 💼 Data Consultant at Rockborne
 
 Please have a look on my linkedin below to view my educational background and experience.
 
