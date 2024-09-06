@@ -1,4 +1,6 @@
-![](https://github.com/hanifahuq/hanifahuq/blob/main/Hanifa's%20GitHub%20Banner.png?raw=true)
+![](https://www.canva.com/design/DAFNVuM-a-8/byTumL49biCUnw2hBs8Utw/view)
+
+
 
 ### Hi there 👋, My name is Hanifa
 
