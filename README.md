@@ -2,7 +2,7 @@
 
 ### Hi there 👋, My name is Hanifa
 
-Skills: Python / R / SQL / MatLab
+Skills: Python / SQL / Tableu / PowerBI / Machine Learning / R / MatLab
 
 - 🔭 Currently working on filling up this profile with more projects! 
 - 🌱 Learning Data Analytics and Science 
